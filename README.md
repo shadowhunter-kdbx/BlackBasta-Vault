@@ -45,7 +45,7 @@ These materials provide deeper insights into the technical aspects of BlackBasta
 
 ## 📸 **Visual Insights**
 
-![BlackBasta Chat Logs](https://www.cybercrimediaries.com/images/blackbasta-chat-logs.jpg)  
+![BlackBasta Chat Logs](https://github.com/shadowhunter-kdbx/BlackBasta-Vault/blob/main/image.jpeg)  
 *Sample image of BlackBasta’s chat logs showing a typical ransom negotiation.*
 
 ### **Cybercrime Diaries - BlackBasta Case Study**
@@ -60,34 +60,27 @@ Explore the **[Cybercrime Diaries: BlackBasta Chat Leak - Organization and Infra
 
 To help further understand the BlackBasta group and the leak's significance, we’ve compiled a list of key resources, including insightful articles, reports, and case studies:
 
-1. **[Exploit Whispers Blog](https://example.com/exploit-whispers)**  
-   A deep dive into the methods of data collection and analysis behind the leak.
+
    
-2. **[Cybercrime Diaries: BlackBasta Chat Leak - Organization and Infrastructures](https://www.cybercrimediaries.com/post/black-basta-chat-leak-organization-and-infrastructures)**  
+1. **[Cybercrime Diaries: BlackBasta Chat Leak - Organization and Infrastructures](https://www.cybercrimediaries.com/post/black-basta-chat-leak-organization-and-infrastructures)**  
    A detailed analysis of BlackBasta's organizational structure and the underlying infrastructures supporting their cybercrime operations.
 
-3. **[Ransomware: A Growing Threat](https://example.com/ransomware-growing-threat)**  
-   A comprehensive guide on ransomware, its impact, and how organizations can defend against it.
-
-4. **[Understanding Ransomware Tactics](https://example.com/ransomware-tactics)**  
-   An in-depth look at the evolving tactics used by cybercriminals in the modern landscape.
-
-5. **[eSentire: Initial Takeaways from the Black Basta Chat Leaks](https://www.esentire.com/blog/initial-takeaways-from-the-black-basta-chat-leaks)**  
+2. **[eSentire: Initial Takeaways from the Black Basta Chat Leaks](https://www.esentire.com/blog/initial-takeaways-from-the-black-basta-chat-leaks)**  
    A detailed breakdown of the leaked chat logs and their significance in understanding the operations of the BlackBasta group.
 
-6. **[Eclypsium: Inside Black Basta Ransomware Group's Chat Leak](https://eclypsium.com/blog/inside-black-basta-ransomware-groups-chat-leak/)**  
+3. **[Eclypsium: Inside Black Basta Ransomware Group's Chat Leak](https://eclypsium.com/blog/inside-black-basta-ransomware-groups-chat-leak/)**  
    Analyzing the disorganized messages from BlackBasta and how they reveal key aspects of their attack methods.
 
-7. **[Armis: Unpacking the Black Basta Leak](https://www.armis.com/blog/unpacking-the-black-basta-leak/)**  
+4. **[Armis: Unpacking the Black Basta Leak](https://www.armis.com/blog/unpacking-the-black-basta-leak/)**  
    A deep dive into the tools and tactics used by BlackBasta, as revealed by the chat logs.
 
-8. **[GuidePoint Security: Breaking Basta: Insights from Black Basta's Leaked Ransomware Chats](https://www.guidepointsecurity.com/blog/breaking-basta-insights-from-black-bastas-leaked-ransomware-chats/)**  
+5. **[GuidePoint Security: Breaking Basta: Insights from Black Basta's Leaked Ransomware Chats](https://www.guidepointsecurity.com/blog/breaking-basta-insights-from-black-bastas-leaked-ransomware-chats/)**  
    A comprehensive analysis of the group’s financial transactions, tactics, and internal conflicts.
 
-9. **[The Hacker News: Leaked Black Basta Ransomware Chat Logs Reveal Inner Workings and Internal Conflicts](https://thehackernews.com/2025/02/leaked-black-basta-chat-logs-reveal.html)**  
+6. **[The Hacker News: Leaked Black Basta Ransomware Chat Logs Reveal Inner Workings and Internal Conflicts](https://thehackernews.com/2025/02/leaked-black-basta-chat-logs-reveal.html)**  
    A look at the internal conflicts of the group and how these shaped their attack strategies and operations.
 
-10. **[SecurityWeek: Black Basta Leak Offers Glimpse Into Group's Inner Workings](https://www.securityweek.com/black-basta-leak-offers-glimpse-into-groups-inner-workings/)**  
+7. **[SecurityWeek: Black Basta Leak Offers Glimpse Into Group's Inner Workings](https://www.securityweek.com/black-basta-leak-offers-glimpse-into-groups-inner-workings/)**  
     A deeper look at the operational structure and tradecraft of BlackBasta as revealed by the leaked logs.
 
 ---
@@ -112,21 +105,15 @@ We welcome contributions aimed at enhancing the value of this repository. Whethe
 
 ---
 
-## 🧑‍💻 **Contact**
-
-For inquiries, collaboration, or feedback, contact us at **contact@blackbasta-vault.com**.
-
----
-
 ## 🤖 **BlackBasta GPT**
 
 We are also excited to introduce **BlackBasta GPT**, an AI-powered model designed to analyze and discuss the tactics and operations of ransomware groups like BlackBasta. It can assist with generating summaries, suggesting defensive strategies, and analyzing chat logs from this vault to provide insights into the group's behavior and techniques.
-
+**[AI model trained with chat logs ](https://chatgpt.com/g/g-67b80f8b69f08191923d8e6c3fb929b6-blackbastagpt)**  
 ---
 
 **Explore the shadowy world of BlackBasta and help contribute to a safer, more secure digital future.**
 
 ---
 
-This updated version includes a more thorough **Resources** section with detailed blog entries related to the BlackBasta incident and the new **BlackBasta GPT** feature that you can implement for further analysis and discussion. Let me know if you need further modifications!
+
 
