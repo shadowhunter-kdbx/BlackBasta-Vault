@@ -115,5 +115,5 @@ We are also excited to introduce **BlackBasta GPT**, an AI-powered model designe
 
 ---
 
-
+to download the full blackbast chat leak go to the official post of the chat logs  visit t.me/bigbtother
 
